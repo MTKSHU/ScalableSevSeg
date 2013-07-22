@@ -6,7 +6,7 @@ An Arduino library to handle any number of Seven Segments in any plausible fashi
 
 ****************Scalable Seven Segment Library V_1.0****************  
 
-his library has been developed at CEDT,NSIT for the easy handling of any number of Seven Segment displays connected with Arduino in any plausible fashion which could be either common anode or common cathode later of which is demonstrated  in the undermentioned figure(Fig 1). 
+This library has been developed at CEDT,NSIT for the easy handling of any number of Seven Segment displays connected with Arduino in any plausible fashion which could be either common anode or common cathode later of which is demonstrated  in the undermentioned figure(Fig 1). 
 
 
 Hardware Requirements:  
@@ -42,6 +42,7 @@ This functions makes the final formality of displaying the number with whatever 
 
 
 Acknowledgments:   
- ScalableSSD Library  Written by Rohan Seth, 2013    Version 1.0;     Direct any questions or suggestions to rohanscar@gmail.com  
-Special thanks to Prof Dhananjay V. Gadre, Co-ordinator CEDT,NSIT and Rohit Dureja (Undergraduate Student, NSIT ) for their continuous guidance and support during the development of the library.   
-Thanks to Dean Readings , Mark Chambers and Nathan Seidle for help  used from their library SevenSeg,2013 to code this segment.      
+ ScalableSSD Library  Written by Rohan Seth,CEDT,NSIT_2013    Version 1.0;    
+ Direct any questions or suggestions to rohanscar@gmail.com  
+ Special thanks to Prof Dhananjay V. Gadre, Co-ordinator CEDT,NSIT and Rohit Dureja (Undergraduate Student, NSIT ) for their continuous guidance and support during the development of the library.   
+ Thanks to Dean Readings , Mark Chambers and Nathan Seidle for help  used from their library SevenSeg,2013 to code this segment.      
