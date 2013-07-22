@@ -6,7 +6,7 @@ An Arduino library to handle any number of Seven Segments in any plausible fashi
 
 ****************Scalable Seven Segment Library V_1.0****************  
 
-This library has been developed at CEDT,NSIT for the easy handling of any number of Seven Segment displays connected with Arduino in any plausible fashion which could be either common anode or common cathode later of which is demonstrated  in the undermentioned figure(Fig 1). 
+This library has been developed at CEDT,NSIT for the easy handling of any number of Seven Segment displays connected with Arduino in any plausible fashion which could be either common anode or common cathode later of which is demonstrated  in the figure(for Figure refer to Readme.pdf in the repository). 
 
 
 Hardware Requirements:  
